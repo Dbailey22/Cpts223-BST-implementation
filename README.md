@@ -3,16 +3,15 @@ Implement  the  BinarySearchTree  template  class  described  in  the  Weiss  bo
 excluding 4.19) and add code for printing tree traversals and the DepthEqual method from HW5. 
 Specifically: 
 a. Accompanying this homework is the ZIP file hw6.zip, which contains the following files. 
+
 i. BinarySearchTree.h:  A  version  of  the  BinarySearchTree  template  class  code  from 
 Weiss’s book. The four private methods at the bottom (PreOrder, PostOrder, InOrder, 
 DepthEqual) are what you need to implement. 
+
 ii. main.cc: The main function we will run to test your code. 
-  2 
+
 iii. Makefile: A sample Makefile for compiling the code. 
+
 iv. input.txt: A sample input file to test your code. 
-v. output.txt: The correct output you should see when you run ‘main input.txt’. 
-b. Your  submission  should  include  the  modified  BinarySearchTree.h  file.  If  the  provided 
-Makefile will work for compiling your code, then no need to provide any additional files. 
-Otherwise, you may include a readme.txt file and/or your own Makefile. We will compile and 
-run your code on the Ubuntu Linux platform using the Gnu C++ compiler. Your code must 
-compile and run for us on this platform
+
+v. output.txt: The correct output you should see when you run ‘main input.txt’.
